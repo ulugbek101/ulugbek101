@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Ulugbek Umraliyev 👋
 
-<!--
-**ulugbek101/ulugbek101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend Developer | LMS/CRM Specialist | 3+ Years of Experience
 
-Here are some ideas to get you started:
+🚀 Passionate backend developer with a strong focus on building **LMS/CRM platforms** for **private schools, study centers, and language centers**. I deliver high-quality user experiences by combining robust backend systems with seamless frontend integrations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+### Backend
+- **Python** 🐍
+- **Django & DRF** 🌐
+- **MySQL & PostgreSQL** 🗄️
+- **RabbitMQ & Kafka** ⚙️
+- **SQLAlchemy**
+
+### Frontend
+- **React.js** ⚛️
+- **Next.js**
+- **React Native** 📱
+- **HTML, CSS, JavaScript**
+
+### DevOps & Tools
+- **Docker** 🐳
+- **Linux** 🐧
+- **Prisma**
+- **Clerk**
+
+## 🔥 What I'm Working On
+- LMS/CRM platforms for study centers
+- Mobile applications for education management
+- Microservice architecture with RabbitMQ and Kafka
+
+### Let's Connect! 🌐
+[LinkedIn](https://www.linkedin.com/in/thedevu101) | [GitHub](https://github.com/ulugbek101) | [Email](mailto:thedevu101@gmail.com)
+
