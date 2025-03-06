@@ -4,8 +4,9 @@
 
 🚀 Passionate backend developer with a strong focus on building **LMS/CRM platforms** for **private schools, study centers, and language centers**. I deliver high-quality user experiences by combining robust backend systems with seamless frontend integrations.
 
-## 🛠️ Tech Stack
+![](https://github-readme-stats.vercel.app/api?username=ulugbek101&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
+## 🛠️ Tech Stack
 ### Backend
 - **Python** 🐍
 - **Django & DRF** 🌐
